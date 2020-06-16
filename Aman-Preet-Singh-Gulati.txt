@@ -1,0 +1,2 @@
+This is how I hosted my Portfolio Webiste in github 
+btw this repository is for testing purpose
